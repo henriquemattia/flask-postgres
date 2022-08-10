@@ -1,2 +1,2 @@
 # flask-postgres
-Aprendnendo o basico
+Aprendendo o basico
